@@ -18,8 +18,8 @@
 # lives (INFILE) and the name of the JPEG file where you want to save the
 # generated plot image (OUTFILE).
 #
-INFILE="results.tsv"
-OUTFILE="plot.jpg"
+INFILE="results1.tsv"
+OUTFILE="plot1.jpg"
 
 set terminal jpeg
 set style data lines
